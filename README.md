@@ -1,12 +1,13 @@
 
 # South Side of the Moon
 
-In the year 2023, during a lunar expedition mission from ISRO, the Moon Rover 'Vikram' goes radio silent. The Rover was preprogrammed to scan 5 potential points of interest on lunar soil.
+In the year 2023, during a lunar expedition mission from ISRO, the Moon Rover 'Pragyan' goes radio silent. The Rover was preprogrammed to scan 5 potential points of interest on lunar soil.
 
 Play as that Rover, perform your tasks and find out the secrets of the moon. 
 
-Thank you for Playing !
+==========================================================================
 
+Credits:-
 
 Created for 
 Acerola Game Jam 0
